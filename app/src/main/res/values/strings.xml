@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Showroom</string>
+    <string name="mobil_name">Nama Mobil</string>
+    <string name="detail">Detail</string>
+    <string name="harga">Harga Mobil</string>
+    <string name="my_name">Rahmad Hermanto</string>
+    <string name="email">Rahmadhermanto15@gmail.com</string>
+    <string name="call">Hubungi</string>
+    <string name="seller">Dijual Oleh</string>
+    <string name="list">List</string>
+    <string name="about">About</string>
+    <string name="tes">hallo</string>
+</resources>
